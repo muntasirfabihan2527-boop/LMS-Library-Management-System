@@ -4,15 +4,10 @@ Library Management System
 
 This project is a console-based Library Management System written in C, designed to demonstrate core procedural programming concepts along with modular design and unit testing.
 The system allows a user to:
-Add new books
-View all available books
-Remove books
-Issue books to students
-View issued book records
+Add new books,View all available books,Remove books,Issue books to students,View issued book records.
 ⚙️ How to Run This Project
-Steps to Run
-Clone the repository
-git clone https://github.com/NahidHasanDishan/LMS-Library-Management-System.git
+Steps to Run:
+Clone the repository: git clone https://github.com/NahidHasanDishan/LMS-Library-Management-System.git
 cd library-management-system
 Compile the main program : gcc .\main.c
 Run the executable: .\a.exe
